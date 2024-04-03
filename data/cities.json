@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,31 +34,187 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
     },
     {
-      "cityName": "Barcelona",
+      "id": "79b5",
+      "cityName": "Vilafames",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-04-03T17:10:25.749Z",
+      "notes": "Hola",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17006751
+        "lat": "40.10092245173233",
+        "lng": "-0.12805938720703128"
+      }
     },
     {
-      "cityName": "Dortmund",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "4691",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:13:06.970Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98446197
+        "lat": "39.99579683552459",
+        "lng": "-0.016136169433593753"
+      }
+    },
+    {
+      "id": "1e84",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "79b9",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "a00b",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "f2c5",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "b658",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "5e6a",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "729d",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "d3aa",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "4997",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:47.127Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99763792744076",
+        "lng": "-0.03879547119140626"
+      }
+    },
+    {
+      "id": "f45e",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:58.095Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07321131254074",
+        "lng": "-0.04549026489257813"
+      }
+    },
+    {
+      "id": "07dd",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:23:58.095Z",
+      "notes": "",
+      "position": {
+        "lat": "40.07321131254074",
+        "lng": "-0.04549026489257813"
+      }
+    },
+    {
+      "id": "626b",
+      "cityName": "Culla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-03T17:26:04.369Z",
+      "notes": "",
+      "position": {
+        "lat": "40.319325896602095",
+        "lng": "-0.20187377929687503"
+      }
+    },
+    {
+      "id": "45c8",
+      "cityName": "Bouzegza Keddara",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-04-03T17:38:15.468Z",
+      "notes": "",
+      "position": {
+        "lat": "36.59788913307022",
+        "lng": "3.4716796875000004"
+      }
     }
   ]
 }
