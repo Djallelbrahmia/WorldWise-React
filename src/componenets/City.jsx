@@ -20,7 +20,7 @@ function City() {
   const { currentCity, getCity, isLoading } = useCities();
   useEffect(
     function () {
-      getCity(id);
+      getCity(id, getCity);
     },
     [id]
   );
